@@ -10,7 +10,6 @@ A modern and convenient solution for renting scooters right from your neighborho
 - SMS and Bot-call Notifications: Receive instant booking confirmations and important updates via SMS and automated bot calls, thanks to the integration of Plivo APIs.
 
 # Prerequisites
-The web-application is pushed to github on https://github.com/urvish-pujara/Scooter_Rental_App. Before running the application make sure to have the following prerequisites installed on your system.
 - Node.js and npm:
 Make sure you have Node.js installed on your system. You can download it from the official Node.js website: https://nodejs.org/
 - MongoDB:
